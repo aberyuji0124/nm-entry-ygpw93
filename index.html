@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1b2b5b">
+<meta name="robots" content="noindex, nofollow">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="NMエントリー">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>NMエントリー支援</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <header class="top">
+    <div class="top-in">
+      <div class="brand"><span class="brand-mark" aria-hidden="true">NM</span><span id="title">月例会を さがす</span></div>
+    </div>
+  </header>
+  <div id="notice"></div>
+  <main id="view" tabindex="-1"></main>
+  <nav class="tabbar" aria-label="メインメニュー">
+    <button data-act="tab" data-tab="search"><span class="ico" data-ico="calendar"></span><span>さがす</span></button>
+    <button data-act="tab" data-tab="apply"><span class="ico" data-ico="send"></span><span>申込</span></button>
+    <button data-act="tab" data-tab="log"><span class="ico" data-ico="list"></span><span>記録</span></button>
+    <button data-act="tab" data-tab="settings"><span class="ico" data-ico="gear"></span><span>設定</span></button>
+  </nav>
+</div>
+<div id="overlay" hidden></div>
+<div id="toast" role="status" aria-live="polite"></div>
+<noscript><p style="padding:24px">このアプリを使うには JavaScript を有効にしてください。</p></noscript>
+<script src="app.js"></script>
+</body>
+</html>
