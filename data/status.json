@@ -1,17 +1,18 @@
 {
  "ok": true,
- "checked_at": "2026-10-28T09:16:46+09:00",
- "message": "436件の月例会を取り込みました",
+ "checked_at": "2026-10-29T09:38:50+09:00",
+ "message": "424件の月例会を取り込みました",
  "warnings": [
+  "https://nm2014.jp/shibu/mt224651/: Remote end closed connection without response",
   "form https://forms.gle/b49rZ6rxVfA5y2mW7: HTTP Error 401: Unauthorized",
   "form https://forms.gle/cpytKDVKZ3Sfw7KR9: list index out of range",
   "form https://forms.gle/rkGwRFgBu8iCYAuB6: HTTP Error 401: Unauthorized",
   "form https://forms.gle/78gtirS9o11VxWyM6: HTTP Error 401: Unauthorized",
   "form https://docs.google.com/forms/d/1f_M_agI4OZ1s5Yl6SN5FqPRHi991BJrKprH4GBY1byA/edit?hl=ja#settings: HTTP Error 401: Unauthorized"
  ],
- "events": 436,
- "branches": 436,
- "failed_details": 0,
- "google_forms": 150,
- "forms_readable": 145
+ "events": 424,
+ "branches": 424,
+ "failed_details": 1,
+ "google_forms": 149,
+ "forms_readable": 144
 }
