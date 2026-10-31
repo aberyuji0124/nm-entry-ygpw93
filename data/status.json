@@ -1,6 +1,6 @@
 {
  "ok": true,
- "checked_at": "2026-10-30T09:39:58+09:00",
+ "checked_at": "2026-10-31T09:30:21+09:00",
  "message": "424件の月例会を取り込みました",
  "warnings": [
   "form https://forms.gle/b49rZ6rxVfA5y2mW7: HTTP Error 401: Unauthorized",
