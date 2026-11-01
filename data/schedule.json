@@ -1,14 +1,6 @@
 {
- "generated_at": "2026-10-31T09:30:21+09:00",
+ "generated_at": "2026-11-01T08:57:45+09:00",
  "events": [
-  {
-   "date": "2026-10-31",
-   "time": "10:00",
-   "name": "ONおくり",
-   "url": "https://nm2014.jp/shibu/mt226508/",
-   "area": "ネット（大阪・福岡）",
-   "stars": 0
-  },
   {
    "date": "2026-11-01",
    "time": "13:00",
@@ -3395,20 +3387,6 @@
   }
  ],
  "details": {
-  "https://nm2014.jp/shibu/mt226508/": {
-   "date": "2026-10-31",
-   "deadline_text": "当日の相談可\n\n ※ゲストの方の参加申し込み締切は、3日前となります。",
-   "deadline_days": 0,
-   "guest_deadline_days": 3,
-   "apply_urls": [
-    "https://ourl.jp/FSYQ1"
-   ],
-   "apply_note": "会員・役員の方は下記リンクより、役員へ直接お申し込みください。\nhttps://ourl.jp/FSYQ1",
-   "apply_mail": false,
-   "apply_mailto_link": false,
-   "apply_type": "form",
-   "apply_target": "https://ourl.jp/FSYQ1"
-  },
   "https://nm2014.jp/shibu/mt226509/": {
    "date": "2026-11-01",
    "station": "松江",
